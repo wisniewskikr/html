@@ -1,18 +1,15 @@
-HELLO WORLD
-===========
+HEADINGS
+========
 
 
 DESCRIPTION
 -----------
 
 ##### Goal
-The goal of this project is to display "Hello World" text in browser as:
-- title;
-- heading;
-- paragraph.
+The goal of this project is to show how headings works in html.
 
 ##### Details
-Text "Hello World" + title/heading/paragraph is displayed in browser.
+Different types of headings - from 1 to 6 - are displayed in browser.
 
 
 IMPLEMENTATION
