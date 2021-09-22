@@ -1,12 +1,16 @@
-HELLO WORLD JS
-==============
+HELLO WORLD JS FILE
+===================
 
 
 DESCRIPTION
 -----------
 
 ##### Goal
-The goal of this project is to show how use JS in HTML.
+The goal of this project is to show how use JS included in external file in HTML.
+Order of JS (from most to less important):
+- element;
+- head;
+- file.
 
 ##### Details
 Text "Hello World" in is displayed as alert in browser.
